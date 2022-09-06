@@ -16,12 +16,12 @@ export const SocialData =[
     },
     {
         platform:"LinkedIn",
-        link:"www.LinkedIn.com",
+        link:"https://www.linkedin.com/in/jayasurya-v-904982171/",
         icon:require('../../assets/social-media/linkedin.png')
     },
     {
         platform:"Github",
-        link:"www.Github.com",
+        link:"https://github.com/jayasurya12",
         icon:require('../../assets/social-media/github.png')
     }
 ]

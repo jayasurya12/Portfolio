@@ -11,7 +11,8 @@ const About = () => {
         <br/> I love experimenting with the web.
           <div className='about-photo'>
             <img className='picture'
-            src={require('../../../assets/png/Coding.png')} />
+            src={require('../../../assets/png/Coding.png')} 
+            alt='code-png'/>
           </div>
         </div>
       </div>
