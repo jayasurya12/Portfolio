@@ -4,7 +4,7 @@ export const ProjectData = [
         title:"Atatus",
         about:"Company Projetcs module name is Database Monitoring ",
         tags:['AngularJs'],
-        // demo:"https://recipes-spoonacular-api.netlify.app/",
+        demo:'https://www.atatus.com/'
         // github:"https://github.com/jayasurya12/Recipe-Spoonacular_api",
         // image:require('../../assets/Projects/Cooking.png')
     },
