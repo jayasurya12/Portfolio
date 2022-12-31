@@ -1,10 +1,10 @@
 export const WorkData =[
     {
-        company:"IORTA Tech solution",
+        company:"NamLabs",
         designation:"Software Engineer",
-        dateJoining:"23-05-2022",
+        dateJoining:"01-11-2022",
         dateEnd:'Present',
-        companyLogo:"https://media-exp1.licdn.com/dms/image/C510BAQF6T7iuv8mwlQ/company-logo_200_200/0/1542012098255?e=2147483647&v=beta&t=TqI3A68zp1m4v42ysLhUub_Fr5QeZP10SUC9Mcmyu5Q",
-        work:"sdfghjhrgefwdqertyuhgf dfwegrhty5t4re dfgrhtytref"
+        companyLogo:"https://avatars.slack-edge.com/2021-08-24/2399639122935_943ac31257be754e6c3a_512.png",
+        work:"Angular js    "
     }
 ]
