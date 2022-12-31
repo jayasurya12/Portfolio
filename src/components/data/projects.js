@@ -4,9 +4,9 @@ export const ProjectData = [
         title:"Atatus",
         about:"Company Projetcs module name is Database Monitoring ",
         tags:['AngularJs'],
-        demo:'https://www.atatus.com/'
+        demo:'https://www.atatus.com/',
         // github:"https://github.com/jayasurya12/Recipe-Spoonacular_api",
-        // image:require('../../assets/Projects/Cooking.png')
+        image:require('../../assets/Projects/Cooking.png')
     },
     {
         id:2,
@@ -19,20 +19,20 @@ export const ProjectData = [
     },
     {
         id:3,
-        title:"Random Project 2",
-        about:" some one i created and new task is here some one i created and new task is here some one i created and new task is here",
-        tags:['React Js',"Node Js"],
-        demo:"wwkkkdcf",
-        github:"www.github.com",
+        title:"New York Times",
+        about:" some one i created and new task is here ",
+        tags:['Javascript','Bootstrap'],
+        demo:"https://newyorkstimes.netlify.app/",
+        github:"https://github.com/jayasurya12/new-york-times.git",
         image:require('../../assets/Projects/Cooking.png')
     },
     {
         id:4,
-        title:"Random Project 2",
-        about:" some one i created and new task is here some one i created and new task is here some one i created and new task is here",
+        title:"Hotels Booking ",
+        about:" some one i created and new task is here",
         tags:['React Js',"Node Js"],
-        demo:"wwkkkdcf",
-        github:"www.github.com",
+        demo:"https://booking-appz.netlify.app/",
+        github:"https://github.com/jayasurya12/Booking-app.git",
         image:require('../../assets/Projects/Cooking.png')
     }
 ]

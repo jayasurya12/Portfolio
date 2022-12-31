@@ -6,12 +6,12 @@ const WorkCard = ({item}) => {
     <div className='work-card'>
         <img src={item.companyLogo} className='work-logo'/>
       <div className='work-info'>
-        <lable className='company-name'>{item.company}</lable>
+        <h5 className='company-name'>{item.company}</h5>
         <div className='work-dates'>
           <lable>{item.dateJoining}</lable>-<label>{item.dateEnd}</label>
         </div>
         <div className='work-desc'>
-          <p>{item.work}</p>
+          <p className='workProjects'>{item.work}</p>
         </div>
       </div>
     </div>
