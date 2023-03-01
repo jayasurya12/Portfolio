@@ -6,6 +6,15 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 In the project directory, you can run:
 
+## Github Deploy
+
+1.npm i gh-pages
+2.packages.json in add the code from top "homepage":"http://name.github.io/repositories name"
+3. add  the code from script:{  
+            "predeploy":"npm run build",
+            "deploy":"gh-pages -d build",
+        }
+
 ### `npm start`
 
 Runs the app in the development mode.\
