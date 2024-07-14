@@ -8,9 +8,9 @@ export const SkillsData =[
                 img:"https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"
             },
             {
-                name:'Python',
+                name:'Java',
                 // icon: <i class="devicon-python-plain-wordmark colored"></i>
-                img:"https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"
+                img:"https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"
             },
             {
                 name:'TypeScript',
@@ -53,9 +53,9 @@ export const SkillsData =[
                 img:"https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg"
             },
             {
-                name:'DJango',
+                name:'Springboot',
                 // icon:<i class="devicon-django-plain-wordmark colored"></i>
-                img:"https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg"
+                img:"https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg"
             }
         ]
     },

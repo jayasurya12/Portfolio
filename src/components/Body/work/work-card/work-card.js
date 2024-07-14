@@ -10,9 +10,9 @@ const WorkCard = ({item}) => {
         <div className='work-dates'>
           <lable>{item.dateJoining}</lable>-<label>{item.dateEnd}</label>
         </div>
-        <div className='work-desc'>
+        {/* <div className='work-desc'>
           <p className='workProjects'>{item.work}</p>
-        </div>
+        </div> */}
       </div>
     </div>
   )
